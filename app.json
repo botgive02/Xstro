@@ -7,12 +7,12 @@
   "success_url": "/",
   "env": {
     "SESSION_ID": {
-      "description": "Session ID to Run Bot",
+      "description": "XSTRO_76_95_00",
       "required": true
     },
     "SUDO": {
       "description": "Phone Number for Admin Users",
-      "value": "",
+      "value": "923046316500",
       "required": false
     },
     "BOT_INFO": {
